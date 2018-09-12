@@ -21,10 +21,5 @@
   "homepage": "https://github.com/bluestage/website#readme",
   "debDependencies": {
     "browser-sync": "^2.24.7"
-  },
-  "dependencies": {
-    "autoprefixer": "^9.1.5",
-    "parcel": "^1.9.7",
-    "postcss-nested": "^4.1.0"
   }
 }
