@@ -1,0 +1,30 @@
+{
+  "name": "bluestage",
+  "version": "1.0.0",
+  "description": "General website of BlueStage",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server '.' --files '.' --reload-debounce 500",
+    "postcss": "postcss --config postcss.json",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluestage/website.git"
+  },
+  "author": "Daniel Medina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluestage/website/issues"
+  },
+  "homepage": "https://github.com/bluestage/website#readme",
+  "debDependencies": {
+    "browser-sync": "^2.24.7"
+  },
+  "dependencies": {
+    "autoprefixer": "^9.1.5",
+    "parcel": "^1.9.7",
+    "postcss-nested": "^4.1.0"
+  }
+}
