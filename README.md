@@ -10,7 +10,3 @@ Somos fans da simplicidade por isso o nosso website é bastante simples.
 
 🤟 Ficha Técnica
 -----------------
-Obtém desconto de 2€ com a One!
-* `Alojamento` :  [One.com](http://one.me/ptawsdls)
-* `Domínio` :  [One.com](http://one.me/ptawsdls)
-* `Certificado` :  Comodo
